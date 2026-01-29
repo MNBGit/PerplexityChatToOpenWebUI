@@ -37,6 +37,13 @@ This repository contains Python scripts to convert **Perplexity Markdown chat ex
 
 ---
 
+## Usage
+
+- `convert_perplexity_thread.py`  
+  python3 convert_perplexity_thread.py Chat.md --userid "8e6a34b54s-2f4d-23-aa9b-1231fe788" --output-dir output
+
+---
+
 ## Input Format (Perplexity Markdown)
 
 The scripts expect a Perplexity export similar to:
